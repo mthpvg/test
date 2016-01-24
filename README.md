@@ -1,4 +1,4 @@
 # test
 
-mop2
+lop
 dir2 D2C1
